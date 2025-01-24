@@ -11,17 +11,15 @@ This repository aims to cover important notions of Machine Learning in the short
 
 ## Content
 
-### Principal Component Analysis (PCA)
-<iframe src="./PrincipalComponentAnalysis_JoaoBrasOliveira.pdf" width="100%" height="600px"></iframe>
+### Resources
+<div align="center">
 
-### Time Series Analysis
-<iframe src="./TimeSeriesAnalysis_pt1_JoaoBrasOliveira.pdf" width="100%" height="600px"></iframe>
+| ![PCA](./images/pca_preview.png) | ![Time Series](./images/timeseries_preview.png) | ![ANN](./images/ann_preview.png) |
+|:---:|:---:|:---:|
+| [**Principal Component Analysis**](./PrincipalComponentAnalysis_JoaoBrasOliveira.pdf) | [**Time-Series Analysis**](./TimeSeriesAnalysis_pt1_JoaoBrasOliveira.pdf) | [**Artificial Neural Networks**](./ArtificialNeuralNetworks.pdf) |
 
-### Artificial Neural Networks
-<iframe src="./ArtificialNeuralNetworks.pdf" width="100%" height="600px"></iframe>
+| ![NLP](./images/nlp_preview.png) | ![Databases](./images/databases_preview.png) | 
+|:---:|:---:|
+| [**Natural Language Processing**](./NaturalLanguageProcessing.pdf) | [**Databases**](./Databases.pdf) |
 
-### Natural Language Processing (NLP)
-<iframe src="./NaturalLanguageProcessing.pdf" width="100%" height="600px"></iframe>
-
-### Databases
-<iframe src="./Databases.pdf" width="100%" height="600px"></iframe>
+</div>
