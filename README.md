@@ -16,7 +16,7 @@ To be added:
 ### Resources
 <div align="center">
 
-| ![PCA](./images/pca_preview.png) | ![Time Series](./images/timeseries_preview.png) | ![ANN](./images/ann_preview.png) |
+| ![PCA](./images/PCA_cheatslide.png) | ![Time Series](./images/TimeSeries_cheatslide.png) | ![ANN](./images/ann_preview.png) |
 |:---:|:---:|:---:|
 | [**Principal Component Analysis**](./PrincipalComponentAnalysis_JoaoBrasOliveira.pdf) | [**Time-Series Analysis**](./TimeSeriesAnalysis_pt1_JoaoBrasOliveira.pdf) | [**Artificial Neural Networks**](./ArtificialNeuralNetworks.pdf) |
 
