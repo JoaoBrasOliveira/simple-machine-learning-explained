@@ -10,31 +10,18 @@ This repository aims to cover important notions of Machine Learning in the short
 - **Databases** - Relational (SQL) VS Non-relational databases (NoSQL).
 
 ## Content
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <div style="text-align: center;">
-    <img src="path-to-your-image-1.png" alt="Principal Component Analysis" style="width: 200px; border-radius: 10px;">
-    <p><strong>Principal Component Analysis</strong></p>
-  </div>
+### Principal Component Analysis (PCA)
+<iframe src="./PrincipalComponentAnalysis_JoaoBrasOliveira.pdf" width="100%" height="600px"></iframe>
 
-  <div style="text-align: center;">
-    <img src="path-to-your-image-2.png" alt="Time-Series" style="width: 200px; border-radius: 10px;">
-    <p><strong>Time-Seriesg</strong></p>
-  </div>
+### Time Series Analysis
+<iframe src="./TimeSeriesAnalysis_pt1_JoaoBrasOliveira.pdf" width="100%" height="600px"></iframe>
 
-  <div style="text-align: center;">
-    <img src="path-to-your-image-3.png" alt="Neural Networks" style="width: 200px; border-radius: 10px;">
-    <p><strong>Neural Networks</strong></p>
-  </div>
+### Artificial Neural Networks
+<iframe src="./ArtificialNeuralNetworks.pdf" width="100%" height="600px"></iframe>
 
-  <div style="text-align: center;">
-    <img src="path-to-your-image-4.png" alt="Natural Language Processing (NLP)" style="width: 200px; border-radius: 10px;">
-    <p><strong>Natural Language Processing (NLP)</strong></p>
-  </div>
+### Natural Language Processing (NLP)
+<iframe src="./NaturalLanguageProcessing.pdf" width="100%" height="600px"></iframe>
 
-  <div style="text-align: center;">
-    <img src="path-to-your-image-4.png" alt="Natural Language Processing (NLP)" style="width: 200px; border-radius: 10px;">
-    <p><strong>Natural Language Processing (NLP)</strong></p>
-  </div>
-
-</div>
+### Databases
+<iframe src="./Databases.pdf" width="100%" height="600px"></iframe>
