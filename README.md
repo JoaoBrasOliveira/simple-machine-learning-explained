@@ -16,12 +16,12 @@ To be added:
 ### Resources
 <div align="center">
 
-| ![PCA](./images/PCA_cheatslide.png) | ![Time Series](./images/TimeSeries_cheatslide.png) | ![ANN](./images/ann_preview.png) |
+| [![PCA](./images/PCA_cheatslide.png)](./PrincipalComponentAnalysis_JoaoBrasOliveira.pdf) | [![Time Series](./images/TimeSeries_cheatslide.png)](./TimeSeriesAnalysis_pt1_JoaoBrasOliveira.pdf) | [![ANN](./images/ann_preview.png)](./ArtificialNeuralNetworks.pdf) |
 |:---:|:---:|:---:|
-| [**Principal Component Analysis**](./PrincipalComponentAnalysis_JoaoBrasOliveira.pdf) | [**Time-Series Analysis**](./TimeSeriesAnalysis_pt1_JoaoBrasOliveira.pdf) | [**Artificial Neural Networks**](./ArtificialNeuralNetworks.pdf) |
+| **Principal Component Analysis** | **Time-Series Analysis** | **Artificial Neural Networks** |
 
-| ![NLP](./images/nlp_preview.png) | ![Databases](./images/databases_preview.png) | 
+| [![NLP](./images/nlp_preview.png)](./NaturalLanguageProcessing.pdf) | [![Databases](./images/databases_preview.png)](./Databases.pdf) | 
 |:---:|:---:|
-| [**Natural Language Processing**](./NaturalLanguageProcessing.pdf) | [**Databases**](./Databases.pdf) |
+| **Natural Language Processing** | **Databases** |
 
 </div>
