@@ -6,6 +6,8 @@ This repository aims to cover important notions of Machine Learning in the short
 - **Principal Component Analysis (PCA)** - the dimensionality reduction technique;
 - **Time-Series** a set of observations at equal time intervals (t);
 - **Artifical Neural Networks (ANN)** - Models that attempt to emulate the way the brain works through organized layers of neurons;
+
+To be added:
 - **Natural Language Processing (NLP)** - ;
 - **Databases** - Relational (SQL) VS Non-relational databases (NoSQL).
 
