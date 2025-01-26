@@ -7,7 +7,7 @@ This repository aims to cover important notions of Machine Learning in the short
 - **Time-Series** a set of observations at equal time intervals (t).
 
 To be added - "_Work in progress_":
-- - **Artifical Neural Networks (ANN)** - Models that attempt to emulate the way the brain works through organized layers of neurons;
+- **Artifical Neural Networks (ANN)** - Models that attempt to emulate the way the brain works through organized layers of neurons;
 - **Natural Language Processing (NLP)** - Techniques that enable computers to understand, interpret, and generate human language;
 - **Databases** - Relational (SQL) VS Non-relational databases (NoSQL).
 
