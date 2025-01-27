@@ -17,7 +17,7 @@ To be added - "_Work in progress_":
 ### Resources
 <div align="center">
 
-| [<a href="./PrincipalComponentAnalysis_JoaoBrasOliveira.pdf"><img src="./images/PCA_cheatslide.png" alt="PCA" width="300" /></a> <br> <sub>Image Credit: Created by João Brás Oliveira</sub>](./PrincipalComponentAnalysis_JoaoBrasOliveira.pdf) | [<a href="./TimeSeriesAnalysis_pt1_JoaoBrasOliveira.pdf"><img src="./images/TimeSeries_cheatslide.png" alt="Time Series" width="300" /></a> <br> <sub>Image Credit: Created by João Brás Oliveira</sub>](./TimeSeriesAnalysis_pt1_JoaoBrasOliveira.pdf) | [<a href="./ArtificialNeuralNetworks_pt1_JoaoBrasOliveira.pdf"><img src="./images/ArtificialNeuralNetworks_cheatslide.png" alt="ANN" width="300" /></a> <br> <sub>Image Credit: Created by João Brás Oliveira</sub>](./ArtificialNeuralNetworks_pt1_JoaoBrasOliveira.pdf) |
+| [<a href="./PrincipalComponentAnalysis_JoaoBrasOliveira.pdf"><img src="./images/PCA_cheatslide.png" alt="PCA" width="300" /></a> <br> <sub>Image Credit: Own creation</sub>](./PrincipalComponentAnalysis_JoaoBrasOliveira.pdf) | [<a href="./TimeSeriesAnalysis_pt1_JoaoBrasOliveira.pdf"><img src="./images/TimeSeries_cheatslide.png" alt="Time Series" width="300" /></a> <br> <sub>Image Credit: Own creation</sub>](./TimeSeriesAnalysis_pt1_JoaoBrasOliveira.pdf) | [<a href="./ArtificialNeuralNetworks_pt1_JoaoBrasOliveira.pdf"><img src="./images/ArtificialNeuralNetworks_cheatslide.png" alt="ANN" width="300" /></a> <br> <sub>Image Credit: Own creation</sub>](./ArtificialNeuralNetworks_pt1_JoaoBrasOliveira.pdf) |
 |:---:|:---:|:---:|
 | **Principal Component Analysis** | **Time-Series Analysis** | **Artificial Neural Networks** |
 
