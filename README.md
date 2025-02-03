@@ -1,10 +1,10 @@
 # Machine Learning done simple
 
 ## Goal
-This repository aims to cover important notions of Machine Learning in the shortest way conceivable to hopefully help you and be aquickly acessible at all times! It currently includes:
+This repository aims to share slides I made for my own and that may hopefully help others understand important notions/ processes of Machine Learning in the shortest way conceivable. It currently includes:
 
 - **Principal Component Analysis (PCA)** - the dimensionality reduction technique;
-- **Time-Series** a set of observations at equal time intervals (t);
+- **Time-Series** - a set of observations at equal time intervals (t);
 - **Artifical Neural Networks (ANN)** - Models that attempt to emulate the way the brain works through organized layers of neurons.
 
 To be added - "_Work in progress_":
