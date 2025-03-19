@@ -1,5 +1,4 @@
-# Machine Learning done simple
-
+# Simple Machine Learning Explained
 ## Goal
 This repository aims to share slides I made for my own and that may hopefully help others understand important notions/ processes of Machine Learning in the shortest way conceivable. It currently includes:
 
